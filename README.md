@@ -4,7 +4,7 @@ My AI-enhanced tutorial project for prompt engineering and content workflows. Bu
 
 ## What's Inside
 - **[Tutorial DOCX](AI_Enhanced_Content_Creation_Tutorial_FINAL.docx)**: A 3-lesson mini-curriculum on using AI (LLMs like Grok) for SEO-optimized YouTube/blog scripts. Includes examples, metrics, and exercises.
-- **[Generation Script](generate_tutorial.py)**: Python code that auto-builds the .docx file using `python-docx`. (Run it locally to recreate—shows automation skills!)
+- **[Generation Script](generate_tutorial.py)**: Python code that auto-builds the .docx file using `python-docx`. (Run it locally to recreate—shows powerful automation)
 - **[Updated Resume PDF](Owadokun_Resume_Updated.pdf)**: My background in physics, AI prompt engineering, content creation, and customer-facing roles.
 
 ## Quick Demo
